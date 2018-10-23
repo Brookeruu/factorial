@@ -20,7 +20,7 @@ $(document).ready(function() {
 
     var total = factorial(inputNumber);
 
-    $("#get-number").hide();
+    // $("#get-number").hide();
     $(".results").show();
     $("#inputNumber").text(inputNumber);
     $("#calculation").text(total);
