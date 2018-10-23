@@ -1,0 +1,26 @@
+.results {
+  display: none;
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+  background-color: #236B8E;
+  padding: 30px;
+}
+
+body {
+  background-color: #D3D3D3;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+}
+
+h2 {
+  background-color: #236B8E;
+  padding: 30px;
+  margin: -30px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: white;
+}
